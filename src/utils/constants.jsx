@@ -14,6 +14,7 @@ import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
 export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
+export const defaultCategory = 'New';
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
   { name: 'JS Mastery', icon: <CodeIcon />, },
@@ -33,6 +34,15 @@ export const categories = [
   { name: 'Gym', icon: <FitnessCenterIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
+
+export const clNames = {
+  copyright: 'copyright',
+  feedSubtitle: 'feed-subtitle',
+  categoryBtn: 'category-btn',
+  categoryIcon: 'category-icon',
+  categoryName: 'category-name',
+  selected: 'selected'
+};
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
 export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
