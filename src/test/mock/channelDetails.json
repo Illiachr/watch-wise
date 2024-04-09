@@ -1,0 +1,65 @@
+{
+  "kind": "youtube#channelListResponse",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "id": "UCmXmlB4-HJytD7wek0Uo97A",
+      "snippet": {
+        "title": "JavaScript Mastery",
+        "description": "Master modern web development with a project-based approach\n",
+        "customUrl": "@javascriptmastery",
+        "publishedAt": "2018-12-25T10:37:24Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "JavaScript Mastery",
+          "description": "Master modern web development with a project-based approach\n"
+        },
+        "country": "HR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUmXmlB4-HJytD7wek0Uo97A"
+        }
+      },
+      "statistics": {
+        "viewCount": "50611057",
+        "subscriberCount": "826000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "128"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "JavaScript Mastery",
+          "description": "Master modern web development with a project-based approach\n",
+          "keywords": "\"web development\" javascript reactjs nodejs webdev \"javascript mastery\" \"learn js\"",
+          "unsubscribedTrailer": "FkowOdMjvYo",
+          "country": "HR"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.googleusercontent.com/NiKxd72T-t6VnKdokB84uT8dDn_bE5QNxIMuzd4pFHBsNuu2OMfqiN_wgtuNzjUQOA5zOlyO"
+        }
+      }
+    }
+  ]
+}
