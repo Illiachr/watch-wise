@@ -1,0 +1,1661 @@
+{
+  "kind": "youtube#searchListResponse",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "DE",
+  "pageInfo": {
+    "totalResults": 138,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R8CIO1DZ2b8"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-29T10:32:19Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack Video Conferencing App with Next JS",
+        "description": "Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R8CIO1DZ2b8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R8CIO1DZ2b8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R8CIO1DZ2b8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-29T10:32:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kRQbRAJ4-Fs"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-15T11:55:01Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Beginner Three.js &amp; GSAP Tutorial | Build and Deploy an Apple Website using React",
+        "description": "Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kRQbRAJ4-Fs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kRQbRAJ4-Fs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kRQbRAJ4-Fs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-15T11:55:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1WhHB6z-oUA"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-06T08:56:17Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Coding session in progress 👨‍💻",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1WhHB6z-oUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1WhHB6z-oUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1WhHB6z-oUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-06T08:56:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B91wc5dCEBA"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-01T11:00:53Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind",
+        "description": "Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B91wc5dCEBA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B91wc5dCEBA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B91wc5dCEBA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-01T11:00:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kY0TXomho24"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-21T09:59:58Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "#codingsession in progress 💻",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kY0TXomho24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kY0TXomho24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kY0TXomho24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-21T09:59:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ahwoks_dawU"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-16T11:16:10Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack AI SaaS Platform with Next js 14, TypeScript, Stripe",
+        "description": "Build a REAL Software-as-a-Service app with AI features and a payments and credits system that you might even turn into a side ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ahwoks_dawU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ahwoks_dawU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ahwoks_dawU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-16T11:16:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oKIThIihv60"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-02T11:00:06Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Figma Clone",
+        "description": "Build a Figma clone with real-world features like live collaboration through cursor chat, comments, reactions, and drawing designs ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oKIThIihv60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oKIThIihv60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oKIThIihv60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-02T11:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6a3Dz8gwjdg"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-19T13:34:57Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a React Admin Dashboard With Real time Data, Charts, Events, Kanban, CRM, and More",
+        "description": "Build an admin dashboard with full authentication, a homepage displaying charts and activities, a comprehensive table for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6a3Dz8gwjdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6a3Dz8gwjdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6a3Dz8gwjdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-19T13:34:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GFgJkfScVNU"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-05T13:11:38Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Learn Docker in 1 Hour | Full Docker Course for Beginners",
+        "description": "Master Docker in one course; learn about images and containers on Docker Hub, running multiple containers with Docker ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GFgJkfScVNU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GFgJkfScVNU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GFgJkfScVNU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-05T13:11:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n0dOlUhv1J8"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-19T18:55:52Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack Next 14 MERN Events App with Stripe, Typescript, Tailwind",
+        "description": "Click the link above to build it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n0dOlUhv1J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n0dOlUhv1J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n0dOlUhv1J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-19T18:55:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zgGhzuBZOQg"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-15T12:27:27Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack Next 14 MERN Events App with Stripe, Typescript, Tailwind",
+        "description": "Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zgGhzuBZOQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zgGhzuBZOQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zgGhzuBZOQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-15T12:27:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3JUsg-WsU9o"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-01T13:03:16Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack E-Commerce App with an Admin Dashboard &amp; CMS in 2024 | Next 14, Stripe",
+        "description": "Learn how to build an incredible e-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3JUsg-WsU9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3JUsg-WsU9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3JUsg-WsU9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-01T13:03:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FKZAXFjxlJI"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-25T11:25:52Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll &amp; Framer Motion Animations",
+        "description": "Are you curious about Server Actions in Next.js 14? What about infinite scrolling and Framer Motion animations with Next 14?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FKZAXFjxlJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FKZAXFjxlJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FKZAXFjxlJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-25T11:25:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iDEIJxwWpO4"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-24T09:02:51Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build an Impressive 3D Portfolio Website with No 3D Experience! | JSM Black Friday Special",
+        "description": "Become a 3D Expert in One Video: https://www.youtube.com/watch?v=FkowOdMjvYo ⭐ Special Black Friday Hosting Deal: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iDEIJxwWpO4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iDEIJxwWpO4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iDEIJxwWpO4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-24T09:02:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FkowOdMjvYo"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-10T15:47:40Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy an Amazing 3D Developer Portfolio in React with Three.js",
+        "description": "Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FkowOdMjvYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FkowOdMjvYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FkowOdMjvYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-10T15:47:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_W3R2VwRyF4"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-27T10:08:57Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query",
+        "description": "Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_W3R2VwRyF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_W3R2VwRyF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_W3R2VwRyF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-27T10:08:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cuzw4vL1z5E"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-13T10:58:43Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Fully Responsive Modern UI/UX Website | React.js, Next.js 13, Tailwind CSS",
+        "description": "Build a feature-rich travel app with Next.js 14 and Tailwind CSS, covering everything from a sleek UI to mobile-first best practices.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cuzw4vL1z5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cuzw4vL1z5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cuzw4vL1z5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-13T10:58:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lh9XVGv6BHs"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-30T11:57:59Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Web Scraping Full Course 2024 | Build and Deploy eCommerce Price Tracker",
+        "description": "Dive into web scraping and build a Next.js 14 eCommerce price tracker within a single video that teaches you data scraping, cron ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lh9XVGv6BHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lh9XVGv6BHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lh9XVGv6BHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-30T11:57:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3WCIyNOrzwM"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-18T13:49:46Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "How I Made My Website Load in 0.364 Seconds",
+        "description": "In this video, you'll build the official jsmastery.pro website and learn how to build insanely fast websites with Next.js 14! ⭐ Ultimate ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3WCIyNOrzwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3WCIyNOrzwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3WCIyNOrzwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-18T13:49:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r8nXMA_pf0w"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-15T11:15:39Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Next.js isn&#39;t React",
+        "description": "Ultimate Next 14 Course: https://www.jsmastery.pro/next14 While you're waiting for the course launch, watch: Next.js 14 Crash ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r8nXMA_pf0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r8nXMA_pf0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r8nXMA_pf0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-15T11:15:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A6g8xc0MoiY"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-01T10:34:40Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy 3 Modern API Applications in 7 Hours - Full Course",
+        "description": "Build three apps and become an expert developer capable of building web and mobile apps. While building them, learn how to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A6g8xc0MoiY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A6g8xc0MoiY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A6g8xc0MoiY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-01T10:34:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tS7upsfuxmo"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-18T10:57:21Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website",
+        "description": "Dive into the world of #tailwindcss, build a Nike #website, and join top-tier organizations like OpenAI, Shopify, and NASA in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tS7upsfuxmo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tS7upsfuxmo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tS7upsfuxmo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-18T10:57:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O5cmLDVTgAs"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-04T10:36:00Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack MERN Next.js 14 Threads App | React, Next JS, TypeScript, MongoDB",
+        "description": "Develop Threads, Next.js 14 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O5cmLDVTgAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O5cmLDVTgAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O5cmLDVTgAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-04T10:36:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AHtSIP-pRL4"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-21T11:12:18Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Transforming a Design into a Fully Responsive App in an Hour",
+        "description": "In this video, you'll learn how to transform a stunning design into a fully functional application using AI in just minutes. We'll do that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AHtSIP-pRL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AHtSIP-pRL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AHtSIP-pRL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-21T11:12:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tllZWCQZ9_0"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-07T10:03:35Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "10-Hour Masterclass: Develop 4 React Web Apps &amp; Jumpstart Your Dev Career",
+        "description": "Welcome to the ultimate course, where you will build apps with advanced AI features, stunning animations, 3D elements, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tllZWCQZ9_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tllZWCQZ9_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tllZWCQZ9_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-07T10:03:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "986hztrfaSQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-24T13:45:22Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack Next.js 14 Application | React, Next JS 14, TypeScript, Tailwind CSS",
+        "description": "Ultimate Next 14 Course is now live: jsmastery.pro/next14 Next.js has the potential to revolutionize the industry and forever ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/986hztrfaSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/986hztrfaSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/986hztrfaSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-24T13:45:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pUNSHPyVryU"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-09T10:21:09Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Modern Next.js 14 Application | React, Next JS 14, TypeScript, Tailwind CSS",
+        "description": "Ultimate Next 14 Course is now live: jsmastery.pro/next14 The demand for Next.js 14 applications peaked! Now is the perfect time ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUNSHPyVryU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUNSHPyVryU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUNSHPyVryU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-09T10:21:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i5TAC9OkK-A"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-02T15:33:04Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "The Story of JavaScript Mastery",
+        "description": "Over the last 5 years and 100 videos, more than 600 thousand developers have joined and formed the JavaScript Mastery ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i5TAC9OkK-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i5TAC9OkK-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i5TAC9OkK-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-02T15:33:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QRrPE9aj3wI"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T10:13:04Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Creating a Sushi-Themed Website: 2023 HTML &amp; CSS Guide for Beginners",
+        "description": "Are you wondering how to make a website using #HTML and #CSS? Join me today to create a modern, fully responsive HTML ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QRrPE9aj3wI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QRrPE9aj3wI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QRrPE9aj3wI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T10:13:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wm5gMKuwSYk"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-05T13:23:15Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Next.js 14 Full Course 2024 | Build and Deploy a Full Stack App Using the Official React Framework",
+        "description": "Ultimate Next 14 Course: https://www.jsmastery.pro/next14 Next.js recently became the official React framework as outlined in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wm5gMKuwSYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wm5gMKuwSYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wm5gMKuwSYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-05T13:23:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vpvtZZi5ZWk"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T10:06:01Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Turning Your AI Application into a Profitable SaaS Business",
+        "description": "If you're a solo developer in 2023, you have the power to build robust AI software startups! Watch this 1-hour video and make an ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vpvtZZi5ZWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vpvtZZi5ZWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vpvtZZi5ZWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T10:06:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ezv5Zkm67D0"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-07T11:11:35Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "A Developer&#39;s Manual to ChatGPT",
+        "description": "ChatGPT will become your biggest threat or your greatest asset. It's up to you how you want to use it. In this video, you'll ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ezv5Zkm67D0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ezv5Zkm67D0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ezv5Zkm67D0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-07T11:11:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZqEa8fTxypQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T12:49:02Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy an AI-Powered 3D Website Using React | 2024 Three JS Course Tutorial for Beginners",
+        "description": "Many large corporations already use 3D graphics to showcase their products. Learn how to build your own ThreeJS 3D product ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZqEa8fTxypQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZqEa8fTxypQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZqEa8fTxypQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T12:49:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mJ3bGvy0WAY"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-18T12:21:56Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners",
+        "description": "The existence of React Native makes React one of the most valuable skills to have. Learn to transform 75% of your knowledge ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mJ3bGvy0WAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mJ3bGvy0WAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mJ3bGvy0WAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-18T12:21:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0fYi8SGA20k"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-03T11:04:36Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial",
+        "description": "The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0fYi8SGA20k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0fYi8SGA20k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0fYi8SGA20k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-03T11:04:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k4lHXIzCEkM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-10T11:04:01Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack MERN Application With CRUD, Auth, and Charts Using Refine",
+        "description": "In this one video, learn how to develop a fully functional full-stack MERN dashboard application with complete CRUD ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k4lHXIzCEkM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k4lHXIzCEkM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k4lHXIzCEkM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-10T11:04:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EyIvuigqDoA"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T11:06:52Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack MERN AI Image Generation App | Midjourney &amp; DALL-E Clone",
+        "description": "MidJourney and DALL-E are taking over social media. Dive into the world of artificial intelligence and build your own version of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EyIvuigqDoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EyIvuigqDoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EyIvuigqDoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T11:06:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dyFVwXROzZk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-06T11:02:51Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy 3 Modern React API Applications in 8 Hours - Full Course | RapidAPI",
+        "description": "Welcome to the ultimate course, which will help you become a master of APIs by Building Real Industry Applications. In this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dyFVwXROzZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dyFVwXROzZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dyFVwXROzZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-06T11:02:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2FeymQoKvrk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-23T10:50:23Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy Your Own ChatGPT AI App in JavaScript | OpenAI, Machine Learning",
+        "description": "With an elegant user interface that resembles the ChatGPT app, communication with advanced GPT3 model API, and most ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2FeymQoKvrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2FeymQoKvrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2FeymQoKvrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-23T10:50:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BDCT6TYLYdI"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-09T12:26:52Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Web3 Blockchain Crowdfunding Platform (Kickstarter)",
+        "description": "With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BDCT6TYLYdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BDCT6TYLYdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BDCT6TYLYdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-09T12:26:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ugCN_gynFYw"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-25T14:19:16Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Modern Next 13 Website With Framer Motion &amp; Tailwind CSS",
+        "description": "Learn how to transform a Figma design into a fully functioning website using Next13, Framer Motion, and Tailwind CSS, build ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ugCN_gynFYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ugCN_gynFYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ugCN_gynFYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-25T14:19:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F627pKNUCVQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-11T11:26:54Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer | Full 10-Hour Course",
+        "description": "Welcome to the ultimate course, where you will learn how to take Figma designs, turn them into four modern, responsive, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F627pKNUCVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F627pKNUCVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F627pKNUCVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-11T11:26:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C9ctoK4M9Bk"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-28T10:00:12Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy an Online Multiplayer Web 3 NFT Card Game | Full Course",
+        "description": "Web 3.0 has the power to change the internet as we know it forever. You're still early in catching the trend right now and building ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C9ctoK4M9Bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C9ctoK4M9Bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C9ctoK4M9Bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-28T10:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XxXyfkrP298"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-14T10:44:49Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Modern React Web Development Full Course - 12 Hours | 4 Real Industry Web Applications",
+        "description": "Welcome to the ultimate course, which will help you become a master of Modern Web Development by Building Real Industry ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XxXyfkrP298/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XxXyfkrP298/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XxXyfkrP298/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-14T10:44:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I1cpb0tYV74"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-23T11:43:34Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Better Spotify 2.0 Clone Music App with React 18! (Tailwind, Redux, RapidAPI)",
+        "description": "Master modern web development by building an improved version of Spotify. With a modern homepage, fully-fledged music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I1cpb0tYV74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I1cpb0tYV74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I1cpb0tYV74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-23T11:43:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y89q6T1r1Yg"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T10:29:07Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Web 3.0 Cryptocurrency Exchange Decentralized Application",
+        "description": "Master Web3 development by building Uniswap - a decentralized cryptocurrency exchange React application with metamask ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y89q6T1r1Yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y89q6T1r1Yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y89q6T1r1Yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T10:29:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FHTbsZEJspU"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-26T12:02:28Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 | RapidAPI",
+        "description": "Master modern web development by building a responsive React JS application consisting of stunning video sections, custom ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FHTbsZEJspU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FHTbsZEJspU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FHTbsZEJspU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-26T12:02:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_oO4Qi5aVZs"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-12T10:04:33Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind",
+        "description": "Master modern web development by building a responsive React JS application consisting of a stunning hero section, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_oO4Qi5aVZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_oO4Qi5aVZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_oO4Qi5aVZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-12T10:04:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MTrj3tNf9jA"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-29T10:23:17Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "I Abandoned Postman for This NEW VS Code Extension | Build, Test &amp; Sell APIs | RapidAPI",
+        "description": "Become a better and more efficient web developer by learning how to use the newly released tools to create, share, test, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MTrj3tNf9jA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MTrj3tNf9jA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MTrj3tNf9jA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-29T10:23:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7x-qQ_187rM"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-09T13:57:33Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack Video-Sharing Social Media Application | Full Course (Part 2)",
+        "description": "Every web developer needs to know how to build a Video-Sharing Social Media Website. Learn to build the best and most ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7x-qQ_187rM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7x-qQ_187rM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7x-qQ_187rM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-09T13:57:33Z"
+      }
+    }
+  ]
+}

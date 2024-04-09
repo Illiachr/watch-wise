@@ -4,9 +4,9 @@ import {
   Feed,
   Navbar,
   VideoDetails,
-  ChannelDetails,
   SearchFeed,
 } from './components/index.js';
+import ChannelDetails from './layouts/ChannelDetails/ChannelDetails.jsx';
 
 const App = () => {
   return (
@@ -15,8 +15,8 @@ const App = () => {
         <Navbar />
         <Routes>
           <Route path='/' exact element={<Feed />}/>
-          <Route path='/videos/:id' exact element={<VideoDetails />}/>
-          <Route path='/channels/:id' exact element={<ChannelDetails />}/>
+          <Route path='/video/:id' exact element={<VideoDetails />}/>
+          <Route path='/channel/:id' exact element={<ChannelDetails />}/>
           <Route path='/search/searchTerm' exact element={<SearchFeed />}/>
         </Routes>
       </Box>
