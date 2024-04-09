@@ -1,6 +1,6 @@
 import { PropTypes } from 'prop-types';
 import { Link } from 'react-router-dom';
-import { Box, Typography, Card, CardContent, CardMedia } from '@mui/material';
+import { Box, Typography, CardContent, CardMedia } from '@mui/material';
 import { CheckCircle } from '@mui/icons-material';
 
 import {
@@ -11,7 +11,10 @@ import {
 
 import cl from './ChannelCard.module.css';
 
-const ChannelCard = ({ channelDetails: { id: { channelId }, snippet, statistics } }) => {
+const ChannelCard = ({
+  channelDetails: { id, snippet, statistics },
+  marginTop
+}) => {
   return (
     <Box
       sx={{
@@ -22,10 +25,11 @@ const ChannelCard = ({ channelDetails: { id: { channelId }, snippet, statistics 
         alignItems: 'center',
         width: { xs: '356px', md: '320px' },
         height: '326px',
-        margin: 'auto'
+        margin: 'auto',
+        marginTop
       }}
     >
-      <Link to={channelId ? `/channel/${channelId}` : demoChannelUrl}>
+      <Link to={id ? `/channel/${id}` : demoChannelUrl}>
           <CardContent
             sx={{
               display: 'flex',
@@ -56,9 +60,9 @@ const ChannelCard = ({ channelDetails: { id: { channelId }, snippet, statistics 
                 }}
               />
             </Typography>
-            {statistics?.subscribersCount && (
+            {statistics?.subscriberCount && (
               <Typography>
-                {parseInt(statistics?.subscribersCount).toLocaleString()}Subscribers
+                {parseInt(statistics?.subscriberCount).toLocaleString()} Subscribers
                 </Typography>
             )}
           </CardContent>
@@ -68,7 +72,8 @@ const ChannelCard = ({ channelDetails: { id: { channelId }, snippet, statistics 
 };
 
 ChannelCard.propTypes = {
-  channelDetails: PropTypes.object
+  channelDetails: PropTypes.object,
+  marginTop: PropTypes.string
 };
 
 export default ChannelCard;
