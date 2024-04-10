@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { Stack, Box, Typography } from '@mui/material';
 import { Sidebar, Videos } from '../index.js';
 import { clNames, defaultCategory } from '../../utils/constants.jsx';
-import { fetchFromAPI } from '../../utils/fetchFromAPI.js';
+import youtubeAPI from '../../utils/api/YoutubeAPIv3.js';
 
 import cl from './Feed.module.css';
 
@@ -10,35 +10,35 @@ import { mockJsMasteryResponse } from '../../test/mock/mockJsMasteryResponse.js'
 
 const Feed = () => {
   const [isLoading, setIsLoading] = useState(false);
-  const [reqError, setReqError] = useState(null);
-  // const [data, setData] = useState({items: []});
-  const [data, setData] = useState(mockJsMasteryResponse);
+  const [reqError, setReqError] = useState('');
+  const [data, setData] = useState({items: []});
+  // const [data, setData] = useState(mockJsMasteryResponse);
   const [selectedCategory, setSelectedCategory] = useState(defaultCategory);
 
-  // useEffect(() => {
-  //   const getData = async () => {
-  //     const params = {
-  //       q: selectedCategory,
-  //       part: 'id,snippet',
-  //       maxResults: 50
-  //     };
+  useEffect(() => {
+    let ignore = false;
+    const getData = async () => {
+      if (ignore) return;
 
-  //     setIsLoading(true);
-  //     setReqError(null);
+      setIsLoading(true);
 
-  //     try {
-  //       const data = await fetchFromAPI('search', params);
-  //       console.log({data});
-  //       setIsLoading(false);
-  //       setData(data);
-  //     } catch (error) {
-  //       setReqError(error.message);
-  //       console.error(error);
-  //     }
-  //   };
+      try {
+        const data = await youtubeAPI.getVideosByCategory(selectedCategory);
+        console.log({data});
+        setData(data);
+      } catch (error) {
+        setReqError(error.message);
+      } finally {
+        setIsLoading(false);
+      }
+    };
 
-  //   getData();
-  // }, [selectedCategory]);
+    getData();
+
+    return () => {
+      ignore = true;
+    };
+  }, [selectedCategory]);
 
   const handleCategory = (e) => {
     const { target } = e;

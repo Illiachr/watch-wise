@@ -2,52 +2,63 @@ import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { Box } from '@mui/material';
 import { ChannelCard, Videos } from '../../components';
-import { useFetch } from '../../utils/hooks/useFetch';
-import { fetchFromAPI } from '../../utils/fetchFromAPI';
 
 import channelDetails from '../../test/mock/channelDetails.json';
 import channelVideos from '../../test/mock/channelVideos.json';
+import youtubeAPI from '../../utils/api/YoutubeAPIv3';
 
-const channelDataDefaults = channelDetails;
-// const channelVideosDefaults = { items: [] };
-const channelVideosDefaults = channelVideos;
+// const channelDataDefaults = channelDetails;
+const channelVideosDefaults = { items: [] };
+// const channelVideosDefaults = channelVideos;
 
 const ChannelDetails = () => {
   const { id } = useParams();
-  const [channelData, setChannelData] = useState(channelDetails.items[0]);
-  // const [channelData, setChannelData] = useState({});
-  const [channelVideosData, setChannelVideosData] = useState(channelVideosDefaults);
+  // const [channelDetails, setChannelDetails] = useState(channelDetails.items[0]);
+  const [channelDetails, setChannelDetails] = useState({});
+  const [channelVideos, setChannelVideos] = useState(channelVideosDefaults);
+  const [detailsLoading, setDetailsLoading] = useState(false);
+  const [videosLoading, setVideosLoading] = useState(false);
+  const [reqDetailsError, setReqDetailsError] = useState('');
+  const [reqVideosError, setReqVideosError] = useState('');
 
-  const [fetchChannelDetails,
-    channelDetailsLoading,
-    fetchChannelDetailsError
-  ] = useFetch(async () => {
-    const params = {
-      id,
-      part: 'snippet,statistics'
+  useEffect(() => {
+    let ignore = false;
+
+    const getDetails = async () => {
+      if (ignore) return;
+      try {
+        setDetailsLoading(true);
+        const data = await youtubeAPI.getChannelDetails(id);
+        console.log({data});
+        setChannelDetails(data);
+      } catch (err) {
+        setReqDetailsError(err.message);
+      } finally {
+        setDetailsLoading(false);
+      }
     };
-    const data = await fetchFromAPI('channels', params);
-    console.log({data});
-    setChannelData(data.items[0]);
-  });
 
-  const [fetchChannelVideos,
-    channelVideosLoading,
-    fetchChannelVideosError
-  ] = useFetch(async () => {
-    const params = {
-      channelId: id,
-      part: 'snippet,id'
+    const getVideos = async () => {
+      if (ignore) return;
+      try {
+        setVideosLoading(true);
+        const data = await youtubeAPI.getChannelVideos(id);
+        console.log({data});
+        setChannelVideos(data);
+      } catch (err) {
+        setReqVideosError(err.message);
+      } finally {
+        setVideosLoading(false);
+      }
     };
-    const data = await fetchFromAPI('search', params);
-    console.log({data});
-    setChannelVideosData(data);
-  });
 
-  // useEffect(() => {
-  //   fetchChannelDetails();
-  //   fetchChannelVideos();
-  // }, [id]);
+    getDetails();
+    getVideos();
+
+    return () => {
+      ignore = true;
+    };
+  }, [id]);
 
   return (
     <Box
@@ -61,11 +72,11 @@ const ChannelDetails = () => {
             zIndex: 10
           }}
         />
-        {channelDetailsLoading && <span>Loading ...</span>}
-        {fetchChannelDetailsError && <span>{fetchChannelDetailsError}</span>}
-        {Object.keys(channelData).length > 0 && (
+        {detailsLoading && <span>Loading ...</span>}
+        {reqDetailsError && <span>{reqDetailsError}</span>}
+        {Object.keys(channelDetails).length > 0 && (
           <ChannelCard
-            channelDetails={channelData}
+            channelDetails={channelDetails}
             marginTop='-110px'
           />
           )}
@@ -79,10 +90,10 @@ const ChannelDetails = () => {
             mr: { sm: '100px' }
           }}
         />
-        {channelVideosLoading && <span>Loading ...</span>}
-        {fetchChannelVideosError && <span>{fetchChannelDetailsError}</span>}
-        {channelVideosData?.items?.length > 0 && (
-          <Videos videos={channelVideosData.items} />
+        {videosLoading && <span>Loading ...</span>}
+        {reqVideosError && <span>{reqVideosError}</span>}
+        {channelVideos?.items?.length > 0 && (
+          <Videos videos={channelVideos.items} />
         )}
       </Box>
     </Box>
