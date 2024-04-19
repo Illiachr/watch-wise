@@ -1,0 +1,9 @@
+.feed-subtitle {
+  color: #fc1503
+}
+
+@media screen and (max-width:800px){
+  .copyright{
+    display:none !important;
+  }
+}

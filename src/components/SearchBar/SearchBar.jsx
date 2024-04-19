@@ -7,6 +7,7 @@ import cl from './SearchBar.module.css';
 
 const SearchBar = () => {
   const [searchValue, setSearchValue] = useState('');
+  const navigate = useNavigate();
 
   const handleSearchValueChange = (e) => {
     const { value } = e.target;
@@ -17,6 +18,7 @@ const SearchBar = () => {
     e.preventDefault();
     const {target} = e;
     console.log({target});
+    navigate(`/search/${searchValue}`);
   };
 
   return (
