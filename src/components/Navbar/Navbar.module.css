@@ -1,0 +1,10 @@
+.navbar__link {
+  display: flex;
+  align-items: center;
+}
+
+@media screen  and (max-width: 321px) {
+  .navbar__link {
+    margin-right: 1rem;
+  }
+}
