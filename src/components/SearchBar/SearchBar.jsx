@@ -36,7 +36,7 @@ const SearchBar = () => {
       <input
         type="text"
         className={cl['search-bar']}
-        placeholder='Start typing to search ...'
+        placeholder='Search ...'
         value={searchValue}
         onChange={handleSearchValueChange}
       />
