@@ -5,10 +5,12 @@ import { ChannelCard, VideoCard } from '../index.js';
 
 import cl from './Videos.module.css';
 
-const Videos = ({videos}) => {
+const DEFAULT_DIRECTION = 'row';
+
+const Videos = ({videos, direction}) => {
   return (
     <Stack
-      direction='row'
+      direction={direction || DEFAULT_DIRECTION}
       flexWrap='wrap'
       justifyContent='start'
       gap={2}
@@ -26,6 +28,7 @@ const Videos = ({videos}) => {
 };
 
 Videos.propTypes = {
+  direction: PropTypes.string,
   videos: PropTypes.arrayOf(PropTypes.shape({
     kind: PropTypes.string,
     id: PropTypes.shape({

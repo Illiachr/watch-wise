@@ -7,7 +7,8 @@ const API_ENDPOINTS = {
 const QUERY_PARTS = {
   SNIPPET: 'snippet',
   STATISTICS: 'statistics',
-  ID: 'id'
+  ID: 'id',
+  CONTENT_DETAILS: 'contentDetails'
 };
 
 const HEADERS = {
@@ -18,6 +19,10 @@ const HEADERS = {
 const QUERY_PARAMS_DEFAULTS = {
   maxResults: 50,
   order: 'date'
+};
+
+const QUERY_TYPES = {
+  VIDEO: 'video'
 };
 
 class YoutubeAPIv3 {
@@ -99,7 +104,32 @@ class YoutubeAPIv3 {
     return data;
   }
 
-  async getVideoDetails() {}
+  async getVideoDetails(id) {
+    const endpoint = API_ENDPOINTS.VIDEOS;
+    const { CONTENT_DETAILS, SNIPPET, ID } = QUERY_PARTS;
+    const params = {
+      id,
+      part: [CONTENT_DETAILS, SNIPPET, ID].join(',')
+    };    
+    const data = await this.getData(endpoint, params);
+    return data.items[0];
+  }
+
+  async getSuggestedVideos(
+    relatedToVideoId,
+    maxResults = QUERY_PARAMS_DEFAULTS.maxResults
+  ) {
+    const endpoint = API_ENDPOINTS.SEARCH;
+    const { SNIPPET, ID } = QUERY_PARTS;
+    const params = {
+      relatedToVideoId,
+      part: [SNIPPET, ID].join(','),
+      type: QUERY_TYPES.VIDEO,
+      maxResults
+    };
+    const data = await this.getData(endpoint, params);
+    return data;
+  }
 }
 
 const PROTOCOL = import.meta.env.VITE_API_PROTOCOL;
